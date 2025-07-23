@@ -1,6 +1,4 @@
 Project 4 : Automated-Docker-Image-Deployment-to-Amazon-ECR-with-Jenkins-and-Lambda-Integration
-# 🚀 Automate AWS Lambda Container Code Deployment with Docker and Jenkins CI/CD
----
 
 ## 📌 Project Overview
 
